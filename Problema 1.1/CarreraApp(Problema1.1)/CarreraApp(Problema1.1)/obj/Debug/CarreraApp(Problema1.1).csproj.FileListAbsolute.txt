@@ -1,0 +1,13 @@
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\bin\Debug\CarreraApp(Problema1.1).exe.config
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\bin\Debug\CarreraApp(Problema1.1).exe
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\bin\Debug\CarreraApp(Problema1.1).pdb
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp(Problema1.1).csproj.AssemblyReference.cache
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp(Problema1.1).csproj.SuggestedBindingRedirects.cache
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp_Problema1._1_.frmPrincipal.resources
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp_Problema1._1_.Properties.Resources.resources
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp(Problema1.1).csproj.GenerateResource.cache
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp(Problema1.1).csproj.CoreCompileInputs.cache
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp(Problema1.1).exe
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp(Problema1.1).pdb
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp_Problema1._1_.Presentación.frmConsultarCarreras.resources
+D:\DeAdrian\TecnUnivProgram\2do cuatrimestre\Programación 2\2022\Unidad 1\Problema 1.1\CarreraApp(Problema1.1)\CarreraApp(Problema1.1)\obj\Debug\CarreraApp_Problema1._1_.Presentación.frmNuevaCarrera.resources

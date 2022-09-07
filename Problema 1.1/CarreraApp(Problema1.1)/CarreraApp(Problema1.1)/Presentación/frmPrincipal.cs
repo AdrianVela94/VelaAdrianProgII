@@ -1,0 +1,42 @@
+﻿using CarreraApp_Problema1._1_.Presentación;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace CarreraApp_Problema1._1_
+{
+    public partial class frmPrincipal : Form
+    {
+        public frmPrincipal()
+        {
+            InitializeComponent();
+        }
+
+        private void consultarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmConsultarCarreras consultaCarreras = new frmConsultarCarreras();
+            consultaCarreras.ShowDialog();
+        }
+
+        private void nuevaCarreraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmNuevaCarrera nuevaCarrera = new frmNuevaCarrera();
+            nuevaCarrera.ShowDialog();
+        }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("¿ Desea salir de la aplicación ?",
+                "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                this.Dispose();
+            }
+        }
+    }
+}
